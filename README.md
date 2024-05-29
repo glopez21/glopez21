@@ -4,7 +4,7 @@
 
 <hr>
 
-<p align="center"><h5>“There is no reason and no way that a <span>human mind</span> can keep up with an <span>artificial intelligence machine</span> by 2035.”</h5></p>
+<p align="center"><h4>“There is no reason and no way that a <span>human mind</span> can keep up with an <span>artificial intelligence machine</span> by 2035.”</h4></p>
 <p align="right">—Gray Scott</p>
 
 <!-- - 🔭 **Currently Working On:** A Django based LMS.
