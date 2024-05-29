@@ -4,8 +4,8 @@
 
 <hr>
 
-“There is no reason and no way that a human mind can keep up with an artificial intelligence machine by 2035.”
-—Gray Scott
+<h3>“There is no reason and no way that a <span>human mind</span> can keep up with an <span>artificial intelligence machine</span> by 2035.”</h3>
+<h5>—Gray Scott</h5>
 
 <!-- - 🔭 **Currently Working On:** A Django based LMS.
 
