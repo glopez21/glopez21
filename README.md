@@ -4,7 +4,8 @@
 
 <hr>
 
-Welcome to my GitHub! I'm passionate about Artifial Intelligence, cybersecurity, ethical hacking, and I am continuously learning and evolving in this new age of information and technology.
+“There is no reason and no way that a human mind can keep up with an artificial intelligence machine by 2035.”
+—Gray Scott
 
 <!-- - 🔭 **Currently Working On:** A Django based LMS.
 
