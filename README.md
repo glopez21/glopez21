@@ -5,7 +5,7 @@
 <hr>
 
 <p align="center"><h3>“There is no reason and no way that a <span>human mind</span> can keep up with an <span>artificial intelligence machine</span> by 2035.”</h3></p>
-<p align="right">—Gray Scott</p>
+<p align="left">—Gray Scott</p>
 
 <!-- - 🔭 **Currently Working On:** A Django based LMS.
 
@@ -21,6 +21,7 @@ src="https://img.shields.io/github/followers/glopez21?logo=github&style=for-the-
 
 <p align="center"> Languages and Tools </p>
 
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
@@ -34,11 +35,7 @@ src="https://img.shields.io/github/followers/glopez21?logo=github&style=for-the-
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 [![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Batch_file)
 
-
-<!-- [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) -->
-<!-- [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html) -->
-
-<h4 align="center">Some Stats</h4>
+<!-- <h4 align="center">Some Stats</h4> -->
 <hr>
 <p align="center">
 <a href="http://www.github.com/glopez21"><img src="https://github-readme-stats.vercel.app/api?username=glopez21&show_icons=true&hide=prs,&count_private=true&title_color=3382ed&text_color=84cc16&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="glopez21's GitHub stats" /></a>
@@ -51,6 +48,8 @@ src="https://img.shields.io/github/followers/glopez21?logo=github&style=for-the-
 
 ```sh
 
+# <!-- [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) -->
+# <!-- [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html) -->
 ```
 
 <!-- <p align="center"> <a href="https://www.github.com/glopez21" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p> -->
