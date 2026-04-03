@@ -6,17 +6,14 @@
 
 <p align="center"><h3>“There is no reason and no way that a <span>human mind</span> can keep up with an <span>artificial intelligence machine</span> by 2035.”</h3></p>
 <p align="left">—Gray Scott</p>
+<hr>
 
----
-
-## 👨‍💻 About Me
+<h1 align="center">👨‍💻 About Me </h1> 
 
 - 🔭 Currently working on **security research**, **penetration testing**, and **machine learning**
 - 🌱 Learning **Rust**, **Go**, **AI/ML**, and **advanced red teaming**
 - 👯 Looking to collaborate on **open-source security tools**, **ML projects**, and **vulnerability research**
 - 💬 Ask me about **Python**, **Rust**, **Kali Linux**, **Metasploit**, **Wireshark**, **Nmap**, **AI/ML**
-- ⚡ Fun fact: *"There is no reason and no way that a human mind can keep up with an artificial intelligence machine by 2035."* — Gray Scott
-
 ---
 
 <!-- - 🔭 **Currently Working On:** A Django based LMS.
