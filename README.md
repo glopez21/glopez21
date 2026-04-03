@@ -11,10 +11,21 @@
 <h1 align="center">👨‍💻 About Me </h1> 
 
 - 🔭 Currently working on **security research**, **penetration testing**, and **machine learning**
-- 🌱 Learning **Rust**, **Go**, **AI/ML**, and **advanced red teaming**
+- 🌱 Learning **Rust**, CySec **AI/ML** Implementations, and **advanced red teaming**
 - 👯 Looking to collaborate on **open-source security tools**, **ML projects**, and **vulnerability research**
 - 💬 Ask me about **Python**, **Rust**, **Kali Linux**, **Metasploit**, **Wireshark**, **Nmap**, **AI/ML**
 ---
+
+
+<h1 align="center">🏆 Certifications </h1>
+
+<div align="center">
+
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=flat&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
+[![GIAC GFACT](https://img.shields.io/badge/GIAC_GFACT-006400?style=flat&logo=sans&logoColor=white)](https://www.giac.org/certifications/global-information-security-certification)
+[![GIAC GSEC](https://img.shields.io/badge/GIAC_GSEC-FF8C00?style=flat&logo=sans&logoColor=white)](https://www.giac.org/certifications/security-essentials)
+
+</div>
 
 <!-- - 🔭 **Currently Working On:** A Django based LMS.
 
@@ -22,11 +33,6 @@
 <h4>Learning</h4> <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="24" height="24" alt="Rust" /></a>
 
 - 💬 **Ask Me About:** Anything related to AI, hacking, or cybersecurity.
-
-<p align="center">
-<a href="https://www.github.com/glopez21" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/glopez21?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
-</p>
 
 <p align="center"> Languages and Tools </p>
 
@@ -55,6 +61,11 @@ src="https://img.shields.io/github/followers/glopez21?logo=github&style=for-the-
 
 <p align="center">
 <a href="https://github.com/glopez21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glopez21&langs_count=10&title_color=3382ed&text_color=84cc16&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
+
+<p align="center">
+<a href="https://www.github.com/glopez21" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/glopez21?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 </p>
 
 ```sh
