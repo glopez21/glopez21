@@ -14,8 +14,8 @@
 - 🌱 Learning **Rust**, CySec **AI/ML** Implementations, and **advanced red teaming**
 - 👯 Looking to collaborate on **open-source security tools**, **ML projects**, and **vulnerability research**
 - 💬 Ask me about **Python**, **Rust**, **Kali Linux**, **Metasploit**, **Wireshark**, **Nmap**, **AI/ML**
----
 
+---
 
 <h1 align="center">🏆 Certifications </h1>
 
@@ -25,11 +25,9 @@
 [![GIAC GFACT](https://img.shields.io/badge/GIAC_GFACT-006400?style=flat&logo=sans&logoColor=white)](https://www.giac.org/certifications/global-information-security-certification)
 [![GIAC GSEC](https://img.shields.io/badge/GIAC_GSEC-FF8C00?style=flat&logo=sans&logoColor=white)](https://www.giac.org/certifications/security-essentials)
 
-
 </div>
 
-
-<h1 align="center">🛠️ Security & Tools </h1>
+<!-- <h1 align="center">🛠️ Security & Tools </h1> -->
 
 <h1 align="center"> Penetration Testing </h1>
 <div align="center">
@@ -49,8 +47,6 @@
 <img src="https://img.shields.io/badge/tcpdump-000000?style=flat&logoColor=white" alt="tcpdump"/>
 <img src="https://img.shields.io/badge/Snort-000000?style=flat&logoColor=white" alt="Snort"/>
 <img src="https://img.shields.io/badge/Suricata-EC9700?style=flat&logoColor=white" alt="Suricata"/>
-
-
 
 </div>
 
@@ -99,8 +95,6 @@
 | [Threat Hunting Analytics](https://github.com/glopez21) | Threat hunting tools and SIEM analytics | 🔄 In Progress |
 | [Incident Response](https://github.com/glopez21) | IR playbooks and automation | 🔄 In Progress |
 
-<!-- <p align="center"> Languages and Tools </p> -->
-
 <!-- 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
@@ -115,9 +109,9 @@
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
-[![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Batch_file) -->
 
 <!-- <h4 align="center">Some Stats</h4> -->
+
 <hr>
 <p align="center">
 <a href="http://www.github.com/glopez21"><img src="https://github-readme-stats.vercel.app/api?username=glopez21&show_icons=true&hide=prs,&count_private=true&title_color=3382ed&text_color=84cc16&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="" /></a>
@@ -126,7 +120,6 @@
 
 <!-- <p align="center">
 <a href="https://github.com/glopez21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glopez21&langs_count=10&title_color=3382ed&text_color=84cc16&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p> -->
 
 <p align="center">
 <a href="https://www.github.com/glopez21" target="_blank" rel="noreferrer"><img
