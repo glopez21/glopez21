@@ -67,7 +67,7 @@
 
 </div>
 
-**Currently Working On:
+<h2 align="center">Currently Working On: </h2>
 <div align="center">
 
   | Project | Description | Status |
