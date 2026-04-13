@@ -124,6 +124,12 @@
 src="https://img.shields.io/github/followers/glopez21?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 </p>
 
+| Project | Description | Status |
+|---------|-------------|--------|
+| [Cyber News Analytics](https://github.com/glopez21/cyber-news-analytics) | AI-powered cybersecurity news aggregation pipeline | 🟢 Active |
+| [Threat Pulse](https://github.com/glopez21/threat-pulse) | Full-stack threat intelligence dashboard | 🟡 In Progress |
+| [Homelab](https://github.com/glopez21/homelab) | Infrastructure & monitoring stack | 🟢 Active |
+
 <!-- - 🔭 **Currently Working On:** A new hacking course with a certificate for completion.
 - 🌱 **Learning:** Rust and advanced penetration testing techniques.
 - 👯 **Collaborating:** Open to all kinds of penetration testing projects.
