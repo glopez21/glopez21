@@ -69,11 +69,13 @@
 
 **Currently Working On:
 <div align="center">
-| Project | Description | Status |
+
+  | Project | Description | Status |
 |---------|-------------|--------|
 | [Cyber News Analytics](https://github.com/glopez21/cyber-news-analytics) | AI-powered cybersecurity news aggregation pipeline | 🟢 Active |
 | [Threat Pulse](https://github.com/glopez21/threat-pulse) | Full-stack threat intelligence dashboard | 🟡 In Progress |
 | [Homelab](https://github.com/glopez21/homelab) | Infrastructure & monitoring stack | 🟢 Active |
+
 </div>
 
 <!-- - 🔭 **Currently Working On:** A new hacking course with a certificate for completion.
